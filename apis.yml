@@ -8,8 +8,7 @@ type: Index
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-tags:
-  - API
+tags: []
 created: '2025-02-08'
 modified: '2025-02-08'
 url: >-
@@ -23,8 +22,7 @@ apis:
       parking have become standard requirements. We lead the market in parking data
       services, with 90 million parking spaces globally and 90 countries.
     humanURL: ' https://business.parkopedia.com/parking-data'
-    tags:
-      - API
+    tags: []
     properties:
       - type: Documentation
         url: ' https://business.parkopedia.com/parking-data'
