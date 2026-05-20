@@ -40,6 +40,10 @@ apis:
       - type: Contact Sales
         url: https://business.parkopedia.com/parking-data
 common:
+  - type: GitHubOrganization
+    url: https://github.com/Parkopedia
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/parkopedia
   - type: Website
     url: https://business.parkopedia.com/
   - type: Consumer Site
