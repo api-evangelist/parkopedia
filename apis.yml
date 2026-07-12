@@ -40,6 +40,10 @@ apis:
       - type: Contact Sales
         url: https://business.parkopedia.com/parking-data
 common:
+  - type: DomainSecurity
+    url: security/parkopedia-domain-security.yml
+  - url: https://business.parkopedia.com/blog/rss.xml
+    type: Blog
   - type: GitHubOrganization
     url: https://github.com/Parkopedia
   - type: LinkedIn
