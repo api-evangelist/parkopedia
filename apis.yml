@@ -34,6 +34,12 @@ access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/parkopedia.png
 tags:
   - Parking
+  - Connected Vehicles
+  - Mobility
+  - Mapping
+  - Location Data
+tags_raw:
+  - Parking
   - Connected Car
   - Mobility
   - Mapping
@@ -52,6 +58,12 @@ apis:
       data services, with 90 million parking spaces globally across 90 countries.
     humanURL: https://business.parkopedia.com/parking-data
     tags:
+      - Parking
+      - Connected Vehicles
+      - Mobility
+      - Mapping
+      - Location Data
+    tags_raw:
       - Parking
       - Connected Car
       - Mobility
